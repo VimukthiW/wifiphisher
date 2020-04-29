@@ -53,7 +53,7 @@ class Lure10(object):
         """
 
         beacons = list()
-        bssid = str()
+        bssid1 = str()
 
         # initiliate the _packets_to_send in first run
         if self.first_run:
