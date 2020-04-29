@@ -689,7 +689,6 @@ class WifiphisherEngine:
         # We no longer need mac_matcher
         self.mac_matcher.unbind()
 
-        clients_APs = []
         APs = []
 
         # Main loop.
